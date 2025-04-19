@@ -1,4 +1,4 @@
-# Mastra MCP with AWS
+# Mastra AWS Documentaion MCP with AWS
 
 AWS CDK project for running Mastra Agent with Amazon ECS and Amazon Bedrock to interact with MCP Server.  
 As an example, this project uses [AWS Documentation MCP server](https://awslabs.github.io/mcp/servers/aws-documentation-mcp-server/) to interact with AWS documentation.
